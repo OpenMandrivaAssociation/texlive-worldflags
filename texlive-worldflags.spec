@@ -1,6 +1,6 @@
 Name:		texlive-worldflags
-Version:	59171
-Release:	2
+Version:	68827
+Release:	1
 Summary:	Drawing flags with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/worldflags
