@@ -3,7 +3,7 @@ Version:	68827
 Release:	1
 Summary:	Drawing flags with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/worldflags
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/worldflags
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/worldflags.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/worldflags.doc.r%{version}.tar.xz
